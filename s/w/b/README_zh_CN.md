@@ -622,7 +622,6 @@
 <tr>
 <td><a href="https://github.com/taomaree" target="_blank"><img src="https://avatars.githubusercontent.com/u/1618649?v=4&s=40" height="20" /> @taomaree</a></td>
 <td><a href="https://github.com/taoyuanyuan" target="_blank"><img src="https://avatars.githubusercontent.com/u/2707372?v=4&s=40" height="20" /> @taoyuanyuan</a></td>
-<td><a href="https://github.com/Thiswang" target="_blank"><img src="https://avatars.githubusercontent.com/u/26315752?v=4&s=40" height="20" /> @Thiswang</a></td>
 <td><a href="https://github.com/threestoneliu" target="_blank"><img src="https://avatars.githubusercontent.com/u/37207968?v=4&s=40" height="20" /> @threestoneliu</a></td>
 <td><a href="https://github.com/tianjipeng" target="_blank"><img src="https://avatars.githubusercontent.com/u/6982153?v=4&s=40" height="20" /> @tianjipeng</a></td>
 </tr>
