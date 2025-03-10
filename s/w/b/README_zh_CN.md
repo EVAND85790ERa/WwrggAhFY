@@ -197,7 +197,6 @@
 <td><a href="https://github.com/chai2010" target="_blank"><img src="https://avatars.githubusercontent.com/u/2295542?v=4&s=40" height="20" /> @chai2010</a></td>
 <td><a href="https://github.com/chainhelen" target="_blank"><img src="https://avatars.githubusercontent.com/u/7046329?v=4&s=40" height="20" /> @chainhelen</a></td>
 <td><a href="https://github.com/champly" target="_blank"><img src="https://avatars.githubusercontent.com/u/15027259?v=4&s=40" height="20" /> @champly</a></td>
-<td><a href="https://github.com/ChangedenCZD" target="_blank"><img src="https://avatars.githubusercontent.com/u/9605663?v=4&s=40" height="20" /> @ChangedenCZD</a></td>
 </tr>
 <tr>
 <td><a href="https://github.com/chenfengjw163" target="_blank"><img src="https://avatars.githubusercontent.com/u/7371122?v=4&s=40" height="20" /> @chenfengjw163</a></td>
