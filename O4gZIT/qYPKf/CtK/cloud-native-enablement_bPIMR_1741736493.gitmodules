@@ -1,3 +1,0 @@
-[submodule "cloud_native_db_storage"]
-	path = cloud_native_db_storage
-	url = git@github.com:px1900/cloud_native_db_storage.git
