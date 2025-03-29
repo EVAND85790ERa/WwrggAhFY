@@ -4,4 +4,3 @@
 /server/tests-py/.hasura-dev-python-venv
 /server/tests-py/.pytest-cache
 /server/tests-py/__pycache__
-/server/tests-py/node_modules
