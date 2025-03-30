@@ -5,7 +5,6 @@ var shelljs = require('shelljs')
 
 if (process.platform == 'win32') {
   var fpresolver = '\\'
-} else {
   var fpresolver = '/'
 }
 
