@@ -18,7 +18,6 @@ only_commits:
     - build/
     - ci/install.sh
     - content/
-
 image: ubuntu
 services:
   - docker
