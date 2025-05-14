@@ -1,6 +1,5 @@
 const fs = require('fs')
 const path = require('path')
-var compressor = require('node-minify')
 var shelljs = require('shelljs')
 
 if (process.platform == 'win32') {
