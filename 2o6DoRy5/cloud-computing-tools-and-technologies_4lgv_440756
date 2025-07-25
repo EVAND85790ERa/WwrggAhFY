@@ -49,7 +49,6 @@ build: manager provider
 .PHONY: build
 
 install: install-manager install-provider
-
 install-manager:
 	install -C ./titan-manager /usr/local/bin/titan-manager
 
